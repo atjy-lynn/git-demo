@@ -1,5 +1,5 @@
 hello world!
 hello world!
-hot-fix v1.0
-version 1.0.3
-master test
+hot-fix v1.0.1
+version 1.0.4
+merge test
